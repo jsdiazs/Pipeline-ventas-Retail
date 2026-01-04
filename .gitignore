@@ -1,0 +1,12 @@
+# Secrets
+secrets/
+*.json
+
+# Airflow / Docker runtime
+logs/
+plugins/
+__pycache__/
+.env
+
+# OS
+.DS_Store
